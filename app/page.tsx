@@ -27,7 +27,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/sarungbam-alen-meetei"
             target="_blank"
             className="block w-full py-3 rounded-lg bg-blue-600 hover:bg-blue-700 transition"
           >
@@ -35,7 +35,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alen20780.github.io"
+            href="https://alen20780.github.io/Alen"
             target="_blank"
             className="block w-full py-3 rounded-lg bg-green-600 hover:bg-green-700 transition"
           >
